@@ -2,7 +2,7 @@
 
 This is a frontend blogging application
 
-Look at github.com/rear-driver/my-blog for backend application
+Look at https://github.com/rear-driver/my-blog for backend application
 
 # Usage
 
